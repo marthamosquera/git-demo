@@ -1,2 +1,4 @@
 Dog goes woof
 Cat goes meow
+Cow goes moo
+Frog goes croak
