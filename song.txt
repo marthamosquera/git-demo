@@ -1,4 +1,7 @@
-Dog goes woof
+
 Cat goes meow
 Cow goes moo
 Frog goes croak
+
+Ducks say quack
+And fish go blub
